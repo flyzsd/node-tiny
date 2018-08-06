@@ -1,6 +1,6 @@
 {
   "name": "@shudongzhang/tiny",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My 1st npm package",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [
     "npm"
   ],
+  "repository": "flyzsd/node-tiny",
   "author": "shudongzhang",
   "license": "ISC"
 }
